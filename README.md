@@ -11,8 +11,8 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
 
 ### 📚 TIL
-<a href="https://velog.io/@aimaimee" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white&link=https://velog.io/@aimaimee"/>
-<img src="https://img.shields.io/badge/TISTORY-000000?style=plastic&logo=tistory&logoColor=white"/>
+<a href="https://velog.io/@aimaimee" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white&link=https://velog.io/@aimaimee"/> 에서
+<img src="https://img.shields.io/badge/TISTORY-000000?style=plastic&logo=tistory&logoColor=white"/> 로 이사 중
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=CDE4AD&height=80&section=footer)
 
